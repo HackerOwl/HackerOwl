@@ -1,6 +1,6 @@
 <img src="Mydrawingbanner.jpg" alt="Banner" width="1200" />
 
-<h1>Hi 👋, I'm Angel</h1>
+<h1>Hello Everyone 👋, My Name Is Angel</h1>
 <img align="right" alt="M GIF" width="350" src="kirito.gif">
 A passionate frontend developer from University
 
