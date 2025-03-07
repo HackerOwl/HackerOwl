@@ -1,5 +1,9 @@
+![Banner](images/banner.png)
+
 <h1>Hi 👋, I'm Angel</h1>
 A passionate frontend developer from University
+
+<img align="right" alt="M GIF" width="400" src="kirito.gif">
 
 - 👋 Hi, I'm @HackerOwl
 - 👀 I'm interested in drawing, gaming, and music
@@ -11,6 +15,8 @@ A passionate frontend developer from University
 - 💬 Ask me about myself
 - 😄 Pronouns: she/her you can call me "Angel"
 - ⚡ Fun fact: I'm lazy but I like to learn something new
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HackerOwl&label=Profile%20views&color=0e75b6&style=flat" alt="HackerOwl" /> </p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
